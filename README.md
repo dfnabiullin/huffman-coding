@@ -27,7 +27,7 @@
 
 1. Клонирование репозитория:
 ```bash
-git clone https://github.com/dfnabiullin/huffman-coding
+git clone https://github.com/dfnabiullin/spbpu-huffman-coding
 cd huffman-coding
 ```
 
